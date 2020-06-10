@@ -1,0 +1,6 @@
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 417  52    |   a = thermo
+ 393  76    |   b = meso
+

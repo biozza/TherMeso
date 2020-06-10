@@ -1,0 +1,205 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.LogitBoost -P 100 -L -1.7976931348623157E308 -H 1.0 -Z 3.0 -O 1 -E 1 -S 1 -I 10 -W weka.classifiers.trees.DecisionStump
+Relation:     AAc_Train
+Instances:    1876
+Attributes:   21
+              A
+              C
+              D
+              E
+              F
+              G
+              H
+              I
+              K
+              L
+              M
+              N
+              P
+              Q
+              R
+              S
+              T
+              V
+              W
+              Y
+              Label
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+LogitBoost: Base classifiers and their weights: 
+
+Iteration 1
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+Q <= 0.0296015 : 0.7897196261682243
+Q > 0.0296015 : -0.6627450980392157
+Q is missing : 0.0
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 2
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+C <= 0.009764 : 0.6610334731896816
+C > 0.009764 : -0.7081467679091802
+C is missing : 0.005623482613324357
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 3
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+S <= 0.0765225 : 0.3891724356392634
+S > 0.0765225 : -0.8451348535801568
+S is missing : -0.005961470766431068
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 4
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+I <= 0.0640635 : -0.5773440360577929
+I > 0.0640635 : 0.5491338727088988
+I is missing : -0.013082545275353926
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 5
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+E <= 0.06382399999999999 : -0.5738789645298462
+E > 0.06382399999999999 : 0.3349481224968645
+E is missing : 0.0014004030949616015
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 6
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+V <= 0.072191 : -0.3261681634070046
+V > 0.072191 : 0.4595541141448213
+V is missing : -0.004009604774069798
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 7
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+Y <= 0.050369 : -0.13715833149143566
+Y > 0.050369 : 0.9078427231846039
+Y is missing : 0.005843876521512401
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 8
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+R <= 0.065703 : -0.24883386625861392
+R > 0.065703 : 0.5006152274910062
+R is missing : 0.008943123266510956
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 9
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+H <= 0.0263505 : 0.17702694712830602
+H > 0.0263505 : -0.502359895412948
+H is missing : 0.001615039625831814
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+
+Iteration 10
+	Class 1 (Label=thermo)
+
+Decision Stump
+
+Classifications
+
+G <= 0.0768095 : -0.22226623127762296
+G > 0.0768095 : 0.40424267726858015
+G is missing : -0.002125691749215965
+
+Two-class case: second classifier predicts additive inverse of first classifier and is not explicitly computed.
+
+Number of performed iterations: 10
+
+
+Time taken to build model: 0.21 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.05 seconds
+
+=== Summary ===
+
+Correctly Classified Instances         721               76.8657 %
+Incorrectly Classified Instances       217               23.1343 %
+Kappa statistic                          0.5373
+Mean absolute error                      0.2996
+Root mean squared error                  0.3949
+Relative absolute error                 59.9116 %
+Root relative squared error             78.9755 %
+Total Number of Instances              938     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.787    0.249    0.759      0.787    0.773      0.538    0.853     0.838     thermo
+                 0.751    0.213    0.779      0.751    0.764      0.538    0.853     0.863     meso
+Weighted Avg.    0.769    0.231    0.769      0.769    0.769      0.538    0.853     0.851     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 369 100 |   a = thermo
+ 117 352 |   b = meso
+

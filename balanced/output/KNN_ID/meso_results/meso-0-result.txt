@@ -1,0 +1,141 @@
+the result of 1 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 2 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 3 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 4 th sequence by using KNN-ID method:
+Thermophilic:2	Mesophilic:7	This peotein is predicted to the Mesophilic
+
+the result of 5 th sequence by using KNN-ID method:
+Thermophilic:4	Mesophilic:5	This peotein is predicted to the Mesophilic
+
+the result of 6 th sequence by using KNN-ID method:
+Thermophilic:1	Mesophilic:8	This peotein is predicted to the Mesophilic
+
+the result of 7 th sequence by using KNN-ID method:
+Thermophilic:1	Mesophilic:8	This peotein is predicted to the Mesophilic
+
+the result of 8 th sequence by using KNN-ID method:
+Thermophilic:1	Mesophilic:8	This peotein is predicted to the Mesophilic
+
+the result of 9 th sequence by using KNN-ID method:
+Thermophilic:4	Mesophilic:5	This peotein is predicted to the Mesophilic
+
+the result of 10 th sequence by using KNN-ID method:
+Thermophilic:6	Mesophilic:3	This peotein is predicted to the Thermophilic
+
+the result of 11 th sequence by using KNN-ID method:
+Thermophilic:6	Mesophilic:3	This peotein is predicted to the Thermophilic
+
+the result of 12 th sequence by using KNN-ID method:
+Thermophilic:1	Mesophilic:8	This peotein is predicted to the Mesophilic
+
+the result of 13 th sequence by using KNN-ID method:
+Thermophilic:4	Mesophilic:5	This peotein is predicted to the Mesophilic
+
+the result of 14 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 15 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 16 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 17 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 18 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 19 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 20 th sequence by using KNN-ID method:
+Thermophilic:2	Mesophilic:7	This peotein is predicted to the Mesophilic
+
+the result of 21 th sequence by using KNN-ID method:
+Thermophilic:7	Mesophilic:2	This peotein is predicted to the Thermophilic
+
+the result of 22 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 23 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 24 th sequence by using KNN-ID method:
+Thermophilic:2	Mesophilic:7	This peotein is predicted to the Mesophilic
+
+the result of 25 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 26 th sequence by using KNN-ID method:
+Thermophilic:1	Mesophilic:8	This peotein is predicted to the Mesophilic
+
+the result of 27 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 28 th sequence by using KNN-ID method:
+Thermophilic:1	Mesophilic:8	This peotein is predicted to the Mesophilic
+
+the result of 29 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 30 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 31 th sequence by using KNN-ID method:
+Thermophilic:1	Mesophilic:8	This peotein is predicted to the Mesophilic
+
+the result of 32 th sequence by using KNN-ID method:
+Thermophilic:2	Mesophilic:7	This peotein is predicted to the Mesophilic
+
+the result of 33 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 34 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 35 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 36 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 37 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 38 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 39 th sequence by using KNN-ID method:
+Thermophilic:3	Mesophilic:6	This peotein is predicted to the Mesophilic
+
+the result of 40 th sequence by using KNN-ID method:
+Thermophilic:5	Mesophilic:4	This peotein is predicted to the Thermophilic
+
+the result of 41 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 42 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 43 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 44 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 45 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 46 th sequence by using KNN-ID method:
+Thermophilic:0	Mesophilic:9	This peotein is predicted to the Mesophilic
+
+the result of 47 th sequence by using KNN-ID method:
+Thermophilic:2	Mesophilic:7	This peotein is predicted to the Mesophilic
+

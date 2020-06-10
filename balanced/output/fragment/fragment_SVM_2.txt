@@ -1,0 +1,43 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -model /Users/danial -seed 1
+Relation:     AAc_DPc_Train
+Instances:    1876
+Attributes:   421
+              [list of attributes omitted]
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 8.82 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.56 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          63               53.8462 %
+Incorrectly Classified Instances        54               46.1538 %
+Kappa statistic                          0     
+Mean absolute error                      0.4615
+Root mean squared error                  0.6794
+Relative absolute error                 92.3077 %
+Root relative squared error            135.8732 %
+Total Number of Instances              117     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    1.000    0.538      1.000    0.700      ?        0.500     0.538     thermo
+                 0.000    0.000    ?          0.000    ?          ?        0.500     0.462     meso
+Weighted Avg.    0.538    0.538    ?          0.538    ?          ?        0.500     0.503     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 63  0 |  a = thermo
+ 54  0 |  b = meso
+
